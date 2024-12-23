@@ -1,6 +1,6 @@
 <header>
-F1-Tenth Final Project
-<h1>Completed as part of the CPE 493 curriculum at West Virginia University</h1>
+<h1>F1-Tenth Final Project</h1>
+<h3>Completed as part of the CPE 493 curriculum at West Virginia University</h3>
 </header>
 
 <p>
@@ -10,10 +10,10 @@ F1-Tenth Final Project
   <h3>
     INSTRUCTIONS:
   </h3>
-  <p>
+  <li>
     - Download package and place into simulation workspace
     - Install necessary dependencies using "source install/setup.bash"
     - Build the workspace by running "colcon build" in the directory
     - To run the node, use "ros2 run final_project final_project_node"
-  </p>
+  </li>
 </p>
